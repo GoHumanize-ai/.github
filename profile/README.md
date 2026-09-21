@@ -10,7 +10,7 @@ We publish part of our work in the open so developers and researchers can learn 
 
 | Resource | Link |
 | --- | --- |
-| Project page and browser demo | [gohumanize.ai/research](https://gohumanize.ai/research) |
+| Project page and browser demo | [gohumanize.ai/open-model](https://gohumanize.ai/open-model) |
 | Model weights, LoRA adapter, GGUF builds | [gohumanize/gohumanize-open-humanizer](https://huggingface.co/gohumanize/gohumanize-open-humanizer) |
 | Dataset, 2,200 pairs (CC-BY 4.0) | [gohumanize/gohumanize-open-humanizer-dataset](https://huggingface.co/datasets/gohumanize/gohumanize-open-humanizer-dataset) |
 | Code and full pipeline | [gohumanize-open-humanizer](https://github.com/GoHumanize-ai/gohumanize-open-humanizer) |
